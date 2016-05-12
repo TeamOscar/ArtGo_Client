@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sell_item.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_sell_item.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_modify_sign.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_modify_sign.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sell.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_sell.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_modify_personal.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_modify_personal.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_register.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_register.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_orders.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_orders.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_personal.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_personal.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_home_page.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_home_page.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_setting.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_setting.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sell_main.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_sell_main.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_modify_address.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_modify_address.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_modify_name.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_modify_name.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_succeed_register.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_succeed_register.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_message.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_message.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\menu\\menu_login.xml"
+    }
+]
