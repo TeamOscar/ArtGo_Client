@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_orders.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_orders.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sell_item.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_sell_item.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_sign.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_modify_sign.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personallistitem.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\personallistitem.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_personal.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_modify_personal.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_succeed_register.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_succeed_register.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sell.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_sell.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\orderitem.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\orderitem.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selllistitem.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\selllistitem.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_address.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_modify_address.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_name.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_modify_name.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sell_main.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_sell_main.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_page.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\src\\main\\res\\layout\\popupwindow.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "G:\\Users\\xugege\\AndroidStudioProjects\\Sell\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_mode_close_item_material.xml"
+    }
+]
